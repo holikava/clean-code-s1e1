@@ -110,7 +110,7 @@ button {
   width: 100%;
 }
 .header__link {
-  font-family: fantasy, cursive;
+  font-family: "fantasy, cursive";
 }
 .header__title {
   height: 0;
